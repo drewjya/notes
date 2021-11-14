@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:notes/api/notes.dart';
-import 'package:notes/pages/landing.dart';
+
 
 class NotesDialog extends StatefulWidget {
   final Notes? note;
